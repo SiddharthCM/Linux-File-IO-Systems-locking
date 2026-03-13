@@ -152,9 +152,8 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 ![Alt text](imag/imag071.png)
 
-![Alt text](img/imag072.png)
+![Alt text](imag/imag072.png)
 
-
-![Alt text](img/imag073.png)
+![Alt text](imag/imag073.png)
 # RESULT:
 The programs are executed successfully.
